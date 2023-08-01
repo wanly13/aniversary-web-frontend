@@ -11,92 +11,92 @@ export class HomeComponent {
     {
       dia: "6 de Noviembre",
       anio: "2022",
-      imagen: "uno.jpeg"
+      imagen: "1.jpeg"
     },
     {
       dia: "11 de Noviembre",
       anio: "2022",
-      imagen: "dos.jpeg"
+      imagen: "2.jpeg"
     },
     {
       dia: "13 de Noviembre",
       anio: "2022",
-      imagen: "tres.mp4"
+      imagen: "3.jpeg"
     },
     {
       dia: "6 de Noviembre",
       anio: "2022",
-      imagen: "cuatro.jpeg"
+      imagen: "4.jpeg"
     },
     {
       dia: "11 de Noviembre",
       anio: "2022",
-      imagen: "cinco.jpeg"
+      imagen: "5.jpeg"
     },
     {
       dia: "13 de Noviembre",
       anio: "2022",
-      imagen: "seis.mp4"
+      imagen: "6.jpeg"
     },
     {
       dia: "6 de Noviembre",
       anio: "2022",
-      imagen: "siete.jpeg"
+      imagen: "7.jpeg"
     },
     {
       dia: "11 de Noviembre",
       anio: "2022",
-      imagen: "ocho.jpeg"
+      imagen: "8.jpeg"
     },
     {
       dia: "13 de Noviembre",
       anio: "2022",
-      imagen: "nueve.mp4"
+      imagen: "9.jpeg"
     },  
     {
       dia: "6 de Noviembre",
       anio: "2022",
-      imagen: "diez.jpeg"
+      imagen: "10.jpeg"
     },
     {
       dia: "11 de Noviembre",
       anio: "2022",
-      imagen: "once.jpeg"
+      imagen: "11.jpeg"
     },
     {
       dia: "13 de Noviembre",
       anio: "2022",
-      imagen: "doce.mp4"
+      imagen: "12.jpeg"
     },  
     {
       dia: "6 de Noviembre",
       anio: "2022",
-      imagen: "trece.jpeg"
+      imagen: "13.jpeg"
     },
     {
       dia: "11 de Noviembre",
       anio: "2022",
-      imagen: "catorce.jpeg"
+      imagen: "14.jpeg"
     },
     {
       dia: "13 de Noviembre",
       anio: "2022",
-      imagen: "quince.mp4"
+      imagen: "15.jpeg"
     },  
     {
       dia: "6 de Noviembre",
       anio: "2022",
-      imagen: "diesiseis.jpeg"
+      imagen: "16.jpeg"
     },
     {
       dia: "11 de Noviembre",
       anio: "2022",
-      imagen: "diesisiete.jpeg"
+      imagen: "17.jpeg"
     },
     {
       dia: "13 de Noviembre",
       anio: "2022",
-      imagen: "diesiocho.mp4"
+      imagen: "18.jpeg"
     },
     
   ]
