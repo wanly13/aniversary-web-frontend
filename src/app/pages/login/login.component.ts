@@ -27,8 +27,8 @@ export class LoginComponent extends LoginFunctions {
   verClave: boolean = false;
   verClaveTypeText: string = "password";
 
-  //targetDate: Date = new Date('2023-08-01T23:59:59');
-  targetDate: Date = new Date('2023-08-01T12:40:00');
+  targetDate: Date = new Date('2023-08-01T23:59:59');
+  //targetDate: Date = new Date('2023-08-01T12:40:00');
   timeRemaining: any;
   intervalId: any;
 
